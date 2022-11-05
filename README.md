@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhash027&label=Profile%20views&color=0e75b6&style=flat" alt="subhash027" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhash027" alt="subhash027" /></a> </p>
-
 - 🔭 I’m currently working on **Junior Engineer in Grootan Technologies**
 
 - 🌱 I’m currently learning **ReactJS, Upcoming new tech**
@@ -26,9 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhash027&show_icons=true&locale=en" alt="subhash027" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhash027&" alt="subhash027" /></p>
-
-
-<!---
-Subhash027/Subhash027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
